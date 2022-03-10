@@ -13,6 +13,6 @@ public class Subtraction {
         else
             result = num2 - num1;
 
-        System.out.println(result);
+        System.out.println(result); 
     }
 }
