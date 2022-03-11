@@ -16,6 +16,7 @@ public class SimpleInterestCalculator {
     public static double interestCalculate(double principal, double rate, int time){
         double result = (principal * rate * time)/100;
         System.out.println("Your Interest is: "+ result);
+        System.out.println("End...");
         return result;
     }
 }
