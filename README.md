@@ -1,2 +1,2 @@
 # CalculatorDemo
-Branch for Multiplication file
+Branch for Simple Interest calculator
